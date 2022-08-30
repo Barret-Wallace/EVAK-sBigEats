@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: rgb(242, 72, 10);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+input{
+    width: 300px;
+}
